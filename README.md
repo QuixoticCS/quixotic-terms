@@ -4,3 +4,6 @@
   </h1>
   
 <p align="center"><img width="75%" src="https://github.com/QuixoticCS/quixotic-terms/blob/main/assets/terminal.svg"/></p>
+
+### Credits:
+- [AloneER0](https://github.com/AloneER0) for Kitty port
